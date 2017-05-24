@@ -43,7 +43,6 @@ namespace MetroDiş
                        var da = new SQLiteDataAdapter(kayit, c);
                        da.Fill(ds);
                        dataGridView1.DataSource = ds.Tables[0].DefaultView;
-            
 
                      DataTable dt = new DataTable();
                 }

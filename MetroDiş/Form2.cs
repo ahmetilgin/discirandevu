@@ -31,8 +31,11 @@ namespace MetroDiş
 
         private void metroButton1_Click(object sender, EventArgs e)
         {
+            if (textBox3.Text.Length == 11)
+            {
 
-            string sorgu = "insert into doktorlar(isim,soyisim,tckimlik,p_isim,sifre) values('" + textBox1.Text + "','" + textBox2.Text + "','" + textBox3.Text + "','" + comboBox1.Text + "','" + textBox4.Text + "')";
+          
+            string sorgu = "insert into doktorlar(isim,soyisim,doktortckimlik,p_isim,sifre) values('" + textBox1.Text + "','" + textBox2.Text + "','" + textBox3.Text + "','" + comboBox1.Text + "','" + textBox4.Text + "')";
 
             using (SQLiteConnection c = new SQLiteConnection(ConnectionString))
             {
@@ -49,6 +52,11 @@ namespace MetroDiş
             this.DialogResult = DialogResult.OK;
 
 
+        }
+            else
+            {
+                MessageBox.Show("Tc 11 haneli olmali");
+            }
         }
     }
 }

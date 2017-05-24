@@ -20,3 +20,4 @@ C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\obj\Release\MetroDiş.csproj.Generate
 C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\obj\Release\MetroDiş.exe
 C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\obj\Release\MetroDiş.pdb
 C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\obj\Release\MetroDiş.doktorEkrani.resources
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\obj\Release\MetroDiş.csprojResolveAssemblyReference.cache

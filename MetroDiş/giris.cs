@@ -129,7 +129,11 @@ namespace MetroDiş
                 secilenDoktor = listBox1.GetItemText(listBox1.SelectedItem).ToString();
                 secilenSaat =  listBox2.GetItemText(listBox2.SelectedItem).ToString();
                 sikayet = listBox3.GetItemText(listBox3.SelectedItem).ToString();
-
+                if (secilenDoktor.Equals("")|| secilenTarih.Equals(""))
+                {
+                    MessageBox.Show("Saat Veya Doktor Secmediniz");
+                }
+                else { 
 
                
                     secilenDoktorId = secilenDoktor.Substring(0, 1);
@@ -152,7 +156,6 @@ namespace MetroDiş
                                 while (reader1.Read())
                                 {
                                     secilenDoktorKimligi = reader1["doktortckimlik"].ToString();
-                                    MessageBox.Show(secilenDoktorKimligi.ToString());
                                 }
 
                             }
@@ -208,7 +211,7 @@ namespace MetroDiş
                             MessageBox.Show("Kayıt Başarılı Randevu Saati: " + secilenSaat + "\n" + "Randevu Tarihi: " + secilenTarih);
                         }
                     }
-
+                }
         }
 
        

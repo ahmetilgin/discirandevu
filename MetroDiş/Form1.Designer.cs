@@ -55,11 +55,13 @@
             this.metroTextBox1.Size = new System.Drawing.Size(205, 23);
             this.metroTextBox1.TabIndex = 1;
             this.metroTextBox1.UseWaitCursor = true;
+            this.metroTextBox1.Click += new System.EventHandler(this.metroTextBox1_Click);
             // 
             // metroTextBox2
             // 
             this.metroTextBox2.Location = new System.Drawing.Point(111, 138);
             this.metroTextBox2.Name = "metroTextBox2";
+            this.metroTextBox2.PasswordChar = '●';
             this.metroTextBox2.PromptText = "Sifre";
             this.metroTextBox2.Size = new System.Drawing.Size(205, 23);
             this.metroTextBox2.TabIndex = 2;

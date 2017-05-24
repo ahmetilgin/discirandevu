@@ -97,41 +97,55 @@ namespace MetroDiş
 
         private void metroButton1_Click(object sender, EventArgs e)
         {
-           
-            if (metroTextBox1.Text == "admin" && metroTextBox2.Text == "admin")
+            if (metroTextBox1.Text.Length == 11)
             {
-              
-                Form2 kayit = new Form2();
-                kayit.ShowDialog();
-               
+
+
+
+                if (metroTextBox1.Text == "admin" && metroTextBox2.Text == "admin")
+                {
+
+                    Form2 kayit = new Form2();
+                    kayit.ShowDialog();
+
+                }
+                else
+                {
+                    string sql = "select * from kullanicilar where tckimlik = " + metroTextBox1.Text;
+                    using (SQLiteConnection c = new SQLiteConnection(ConnectionString))
+                    {
+                        c.Open();
+                        using (SQLiteCommand cmd = new SQLiteCommand(sql, c))
+                        {
+                            using (SQLiteDataReader reader = cmd.ExecuteReader())
+                            {
+                                if (reader.Read())
+                                {
+                                    giris gir = new giris(metroTextBox1.Text, metroTextBox1.Text);
+                                    c.Close();
+                                    gir.ShowDialog();
+                                }
+                                else
+                                {
+                                    MessageBox.Show("Kullanici Hatali");
+                                }
+                            }
+                        }
+                    }
+
+
+
+
+                }
+
+
             }
             else
             {
-             string sql = "select * from kullanicilar where tckimlik = " + metroTextBox1.Text ;
-             using (SQLiteConnection c = new SQLiteConnection(ConnectionString))
-             {
-                 c.Open();
-                 using (SQLiteCommand cmd = new SQLiteCommand(sql, c))
-                 {
-                     using (SQLiteDataReader reader = cmd.ExecuteReader())
-                     {
-                         if (reader.Read())
-                         {
-                             giris gir = new giris(metroTextBox1.Text, metroTextBox1.Text);
-                             c.Close();
-                             gir.ShowDialog();
-                         }
-                     }
-                }
-           }   
-
-             
-               
-              
+                MessageBox.Show("Kimlik Numaraniz 11 Haneli olmali");
             }
-         
-            
         }
+
 
         private void metroButton2_Click(object sender, EventArgs e)
         {
@@ -173,6 +187,11 @@ using (SQLiteConnection c = new SQLiteConnection(ConnectionString))
           
             
            
+        }
+
+        private void metroTextBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
