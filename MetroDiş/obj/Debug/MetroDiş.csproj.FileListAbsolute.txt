@@ -1,0 +1,66 @@
+c:\users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\bin\Debug\MetroDiş.exe.config
+c:\users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\bin\Debug\MetroDiş.exe
+c:\users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\bin\Debug\MetroDiş.pdb
+c:\users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\bin\Debug\MetroFramework.dll
+c:\users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\bin\Debug\MetroFramework.Fonts.dll
+c:\users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\obj\Debug\MetroDiş.csprojResolveAssemblyReference.cache
+c:\users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\obj\Debug\MetroDiş.Form1.resources
+c:\users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\obj\Debug\MetroDiş.Properties.Resources.resources
+c:\users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\obj\Debug\MetroDiş.csproj.GenerateResource.Cache
+c:\users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\obj\Debug\MetroDiş.exe
+c:\users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\obj\Debug\MetroDiş.pdb
+C:\Users\ahmet\Documents\Visual Studio 2013\Projects\MetroDiş\MetroDiş\obj\Debug\MetroDiş.yeniKayıt.resources
+C:\Users\ahmet\Documents\Visual Studio 2013\Projects\MetroDiş\MetroDiş\obj\Debug\MetroDiş.giris.resources
+C:\Users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\bin\Debug\System.Data.SQLite.dll
+C:\Users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\bin\Debug\EntityFramework.dll
+C:\Users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\bin\Debug\EntityFramework.xml
+C:\Users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahmet\documents\visual studio 2013\Projects\MetroDiş\MetroDiş\bin\Debug\System.Data.SQLite.xml
+D:\MetroDiş\MetroDiş\bin\Debug\MetroDiş.exe.config
+D:\MetroDiş\MetroDiş\obj\Debug\MetroDiş.exe
+D:\MetroDiş\MetroDiş\obj\Debug\MetroDiş.pdb
+D:\MetroDiş\MetroDiş\bin\Debug\MetroDiş.exe
+D:\MetroDiş\MetroDiş\bin\Debug\MetroDiş.pdb
+D:\MetroDiş\MetroDiş\bin\Debug\EntityFramework.dll
+D:\MetroDiş\MetroDiş\bin\Debug\EntityFramework.SqlServer.dll
+D:\MetroDiş\MetroDiş\bin\Debug\MetroFramework.dll
+D:\MetroDiş\MetroDiş\bin\Debug\MetroFramework.Fonts.dll
+D:\MetroDiş\MetroDiş\bin\Debug\System.Data.SQLite.dll
+D:\MetroDiş\MetroDiş\bin\Debug\System.Data.SQLite.EF6.dll
+D:\MetroDiş\MetroDiş\bin\Debug\System.Data.SQLite.Linq.dll
+D:\MetroDiş\MetroDiş\bin\Debug\EntityFramework.xml
+D:\MetroDiş\MetroDiş\bin\Debug\EntityFramework.SqlServer.xml
+D:\MetroDiş\MetroDiş\bin\Debug\System.Data.SQLite.xml
+D:\MetroDiş\MetroDiş\obj\Debug\MetroDiş.csprojResolveAssemblyReference.cache
+D:\MetroDiş\MetroDiş\obj\Debug\MetroDiş.Form1.resources
+D:\MetroDiş\MetroDiş\obj\Debug\MetroDiş.giris.resources
+D:\MetroDiş\MetroDiş\obj\Debug\MetroDiş.Properties.Resources.resources
+D:\MetroDiş\MetroDiş\obj\Debug\MetroDiş.yeniKayıt.resources
+D:\MetroDiş\MetroDiş\obj\Debug\MetroDiş.csproj.GenerateResource.Cache
+D:\MetroDiş\MetroDiş\obj\Debug\MetroDiş.Form2.resources
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\bin\Debug\MetroDiş.exe.config
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\obj\Debug\MetroDiş.exe
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\obj\Debug\MetroDiş.pdb
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\obj\Debug\MetroDiş.csprojResolveAssemblyReference.cache
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\obj\Debug\MetroDiş.Form1.resources
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\obj\Debug\MetroDiş.Form2.resources
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\obj\Debug\MetroDiş.giris.resources
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\obj\Debug\MetroDiş.Properties.Resources.resources
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\obj\Debug\MetroDiş.yeniKayıt.resources
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\obj\Debug\MetroDiş.csproj.GenerateResource.Cache
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\bin\Debug\MetroDiş.exe
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\bin\Debug\MetroDiş.pdb
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\bin\Debug\EntityFramework.dll
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\bin\Debug\MetroFramework.dll
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\bin\Debug\System.Data.SQLite.dll
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\bin\Debug\EntityFramework.xml
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\bin\Debug\System.Data.SQLite.xml
+C:\Users\ahmet\Desktop\MetroDiş\MetroDiş\obj\Debug\MetroDiş.doktorEkrani.resources

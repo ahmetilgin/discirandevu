@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>System.Data.SQLite.x64</id>
+    <version>1.0.105.1</version>
+    <title>System.Data.SQLite.x64</title>
+    <authors>SQLite Development Team</authors>
+    <owners>SQLite Development Team</owners>
+    <licenseUrl>https://www.sqlite.org/copyright.html</licenseUrl>
+    <projectUrl>https://system.data.sqlite.org/</projectUrl>
+    <iconUrl>https://system.data.sqlite.org/images/sqlite128.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is a legacy package; if possible, please use either the "System.Data.SQLite" or "System.Data.SQLite.Core" package instead.  The official SQLite database engine combined with a complete ADO.NET provider all rolled into a single mixed-mode assembly for x64.</description>
+    <summary />
+    <copyright>Public Domain</copyright>
+    <language>en-US</language>
+    <tags>sqlite database ado.net provider interop</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework2.0">
+        <dependency id="System.Data.SQLite.Linq" version="1.0.105.1" />
+      </group>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="System.Data.SQLite.Linq" version="1.0.105.1" />
+        <dependency id="System.Data.SQLite.EF6" version="1.0.105.1" />
+      </group>
+      <group targetFramework=".NETFramework4.5">
+        <dependency id="System.Data.SQLite.Linq" version="1.0.105.1" />
+        <dependency id="System.Data.SQLite.EF6" version="1.0.105.1" />
+      </group>
+      <group targetFramework=".NETFramework4.5.1">
+        <dependency id="System.Data.SQLite.Linq" version="1.0.105.1" />
+        <dependency id="System.Data.SQLite.EF6" version="1.0.105.1" />
+      </group>
+      <group targetFramework=".NETFramework4.6">
+        <dependency id="System.Data.SQLite.Linq" version="1.0.105.1" />
+        <dependency id="System.Data.SQLite.EF6" version="1.0.105.1" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
